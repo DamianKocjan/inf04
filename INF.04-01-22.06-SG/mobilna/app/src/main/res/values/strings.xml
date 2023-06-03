@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mobilna</string>
+    <string name="title">Domek w górach</string>
+    <string name="like">POLUB</string>
+    <string name="dislike">USUŃ</string>
+    <string name="save">ZAPISZ</string>
+    <string name="likes">0 polubień</string>
+    <string name="description">Opis</string>
+    <string name="description_content">Odwiedź komfortowy domek w Sudetach, blisko do szlaków turystycznych</string>
+</resources>
